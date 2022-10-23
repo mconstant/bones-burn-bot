@@ -1,4 +1,4 @@
 build:
-    docker build --no-cache -t xmconstantx/bonesburnbot .
+	docker build --no-cache -t xmconstantx/bonesburnbot .
 push:
-    docker push xmconstantx/bonesburnbot
+	docker push xmconstantx/bonesburnbot
